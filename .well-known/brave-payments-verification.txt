@@ -1,0 +1,4 @@
+This is a Brave Payments publisher verification file.
+
+Domain: redux-observable.js.org
+Token: c2710e3fd10a5668185a2bccd28d7a9bfa5fc6267866a61c1f8b461a622c7df5
